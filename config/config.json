@@ -1,0 +1,16 @@
+{
+    "ws_location": "~\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets",
+    "target_location": "~\\Pictures\\Windows Spotlight",
+    "device_properties": {
+        "desktop": {
+            "folder_name": "Desktop",
+            "image_width": 1920,
+            "image_height": 1080
+        },
+        "mobile": {
+            "folder_name": "Mobile",
+            "image_width": 1080,
+            "image_height": 1920
+        }
+    }
+}
